@@ -1,4 +1,4 @@
-### Hi there, My name is Nika Abuashvili 👋
+### Hi there, my name is Nika Abuashvili 👋
 
 - 🔭 I’m currently working on a project as a React Developer.
 - 🌱 I’m currently learning Node.JS
