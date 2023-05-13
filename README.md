@@ -13,7 +13,7 @@
  
 <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikaA3"/></p>
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikaA3&layout=compact"/></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NikaA3&label=Profile%20views&color=0e75b6&style=flat" alt="NikaA3" /> </p>
 <!--
 **NikaA3/NikaA3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
