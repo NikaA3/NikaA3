@@ -7,7 +7,7 @@
 - 📫 How to reach me: abuashvili.nika@yahoo.com
 
 <h2> Languages and tools </h2>
-<p align="left"> <a href="https://react.dev/" target="_blank" rel="noreferrer"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" </a>
+<!-- <p align="left"> <a href="https://react.dev/" target="_blank" rel="noreferrer"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" </a>
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <a href="https://javascript.com/" target="_blank" rel="noreferrer"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a><a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
@@ -17,7 +17,9 @@
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></p>
- <p> <img  src="https://github-readme-stats.vercel.app/api?username=NikaA3&show_icons=true"/></p> 
+ <p> <img  src="https://github-readme-stats.vercel.app/api?username=NikaA3&show_icons=true"/></p>  -->
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  
 <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikaA3"/></p>
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikaA3&layout=compact"/></p>
