@@ -20,7 +20,7 @@
  <p> <img  src="https://github-readme-stats.vercel.app/api?username=NikaA3&show_icons=true"/></p>  -->
  
 
- [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,jest,nodejs,express,mongodb,mysql,prisma,firebase,electron,html,css,sass,bootstrap,tailwind,materialui,figma,webpack,postman,github&perline=23)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,electron,jest,nodejs,express,mongodb,mysql,prisma,firebase,html,css,sass,bootstrap,tailwind,materialui,figma,webpack,postman,github&perline=23)](https://skillicons.dev)
  
 <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikaA3"/></p>
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikaA3&layout=compact"/></p>
