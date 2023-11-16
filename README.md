@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Front End Developer.
 - 🌱 I’m currently learning Node.JS & React Native. 
 - 👯 I’m looking to collaborate on any interesting project. 
-- 💬 Ask me about React.JS, TypeScript, Vanilla JS.
+- 💬 Ask me about React.JS, Next.JS, TypeScript, Vanilla JS.
 - 📫 How to reach me: abuashvili.nika@yahoo.com
 
 <h2> Languages and tools </h2>
